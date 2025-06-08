@@ -1,0 +1,2 @@
+upstash => serverless platform that let us implement redis, scheduling and workflows
+there is a workflow that sends reminders about upcoming subscription payments 
