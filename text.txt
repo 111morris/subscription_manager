@@ -1,2 +1,3 @@
-upstash => serverless platform that let us implement redis, scheduling and workflows
+1. upstash => serverless platform that let us implement redis, scheduling and workflows
 there is a workflow that sends reminders about upcoming subscription payments 
+2. arcjet => it will allow secure the application 
