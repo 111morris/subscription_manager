@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
- console.log(`Subscription Tracker API is running on http://localhost:${PORT}`)
+ console.log(`API is running on http://localhost:${PORT}`)
 });
 
 
