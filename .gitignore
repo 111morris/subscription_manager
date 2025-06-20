@@ -61,3 +61,25 @@ typings/
 .env.*.local
 # next.js build output
 .next
+
+# Logs
+logs/
+
+# Runtime data
+pids/
+
+# Coverage and build output
+coverage/
+build/
+dist/
+
+# Environment variables
+.env.*
+
+# IDE/editor settings (including WebStorm)
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
